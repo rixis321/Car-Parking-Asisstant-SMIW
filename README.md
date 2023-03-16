@@ -11,7 +11,7 @@ Used components:
 <br/>
 -ultrasonic sensor HC-SR04 2-200cm
 <br/>
-- 9V battery
+-9V battery
 <br/>
 
 Scheme:
