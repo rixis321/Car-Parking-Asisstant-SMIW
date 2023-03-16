@@ -1,5 +1,5 @@
 # Car-Parking-Asisstant-SMIW
-Car Parking assistant created using Arduino UNO
+Car parking assistant created using Arduino UNO
 
 Used components:
 <br/>
